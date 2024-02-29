@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @MrCoder0101
+- 👋 Hi, I’m @Mehmetandas
 - 👀 I’m interested in Python programming language right now.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on new Python projects
-- 📫 How to reach me 1.Instangram(mr.coder00)
--                    2.mehmetandas81@gmail.com
--                    
+- 📫 How to reach me mehmet.andas@ogr.sakarya.edu.tr
+  
+           
 
 <!---
 MrCoder0101/MrCoder0101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
