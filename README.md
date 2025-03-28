@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mehmetandas
-- 👀 I’m interested in Python programming language right now.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on new Python projects
+- 👀 I’m interested in Python programming language for a while.
+- 🌱 I’m currently learning Data Analysis
+- 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me mehmet.andas@ogr.sakarya.edu.tr
   
            
