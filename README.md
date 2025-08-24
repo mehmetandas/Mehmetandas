@@ -14,9 +14,6 @@
   <img src="https://img.shields.io/github/stars/mehmetandas?label=Total%20Stars&style=for-the-badge&color=ffd700&labelColor=333333" alt="GitHub stars" />
 </a>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&repeat=true&width=700&height=100&lines=Merhaba+👋+Ben+Mehmet+Andas;Full-Stack+Developer+%7C+Bilişim+Sistemleri+Mühendisliği;4%2B+Yıl+Yazılım+Geliştirme+Deneyimi" alt="Typing SVG" />
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
